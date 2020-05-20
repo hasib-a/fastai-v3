@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1EonNksj8NfytoK5hhhNmuNsku_GezLWF'
+export_file_url = 'https://drive.google.com/uc?export=download&id=10UHu-XYDsbkOxVyxK85gLzRgy11RCTSf'
 export_file_name = 'skin_lesion_image_classifier_model_wtl.pkl'
 
 classes = ['black', 'grizzly', 'teddys']
